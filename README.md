@@ -16,6 +16,8 @@
 - [REST API](#4-rest-api-link)
 
 [3. 프로젝트 파일 구조](#3-프로젝트-파일-구조)
+- [Frontend](frontend)
+- [Backend](backend)
 
 
 [4. 프로젝트 산출물](#4-프로젝트-산출물)
