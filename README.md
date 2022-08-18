@@ -10,10 +10,10 @@
 
 
 [2. 프로젝트 설계](#2-프로젝트-설계)
-- [Figma](#figma)
-- [ERD](#erd)
-- [아키텍처](#아키텍처)
-
+- [Figma](#1-figma)
+- [ERD](#2-erd-link)
+- [아키텍처](#3-아키텍처)
+- [REST API](#4-rest-api-link)
 
 [3. 프로젝트 파일 구조](#3-프로젝트-파일-구조)
 
@@ -31,12 +31,12 @@
   | Position | Frontend | Frontend | Frontend | Frontend | Backend | Backend |
 
 ## 2. 프로젝트 설계
-   ### Figma
+   ### 1) Figma
    https://www.figma.com/file/0pfzHeX6s46qoyzQOuOdr2/%EA%B9%94%EB%A7%9E%EC%B6%A4?node-id=226%3A767
-   ### ERD [(link)](README-asset/erd.png)
-   ### 아키텍처
+   ### 2) ERD [(link)](README-asset/erd.png)
+   ### 3) 아키텍처
    ![architecture](README-asset/architecture.png)
-   ### REST API [(link)](README-asset/rest-api-docs.pdf)
+   ### 4) REST API [(link)](README-asset/rest-api-docs.pdf)
      
 
 ## 3. 프로젝트 파일 구조
