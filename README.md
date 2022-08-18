@@ -16,11 +16,12 @@
 - [REST API](#4-rest-api-link)
 
 [3. 프로젝트 파일 구조](#3-프로젝트-파일-구조)
-- [Frontend](frontend)
-- [Backend](backend)
 
 
 [4. 프로젝트 산출물](#4-프로젝트-산출물)
+  - [발표자료](#1-발표자료)
+  - [UCC](#2-ucc)
+  - [포팅 매뉴얼](#3-포팅-매뉴얼)
 
 <br>
 
@@ -102,6 +103,6 @@ colors
 ```
 
 ## 4. 프로젝트 산출물
-  - [발표자료](exec/발표자료.pptx)
-  - [UCC](http://www.youtube.com)
-  - [포팅 매뉴얼](exec/포팅매뉴얼.pdf)
+  ### 1) [발표자료](exec/발표자료.pptx)
+  ### 2) [UCC](http://www.youtube.com)
+  ### 3) [포팅 매뉴얼](exec/포팅매뉴얼.pdf)
