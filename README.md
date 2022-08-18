@@ -35,7 +35,7 @@
   | 2022. 08. 16. ~ 2022. 08. 19. | 서비스 배포 및 유지보수 |
   ### 3) 구성원
   SSAFY 대전캠퍼스 7th B208
-  |   Name(Git)   | [송다경](https://github.com/sa11k/) | [김민영](https://github.com/minyule) | [김찬일](https://github.com/chanilkim) | 이한기 | [강민성](https://github.com/pfcskms1997) | [오정환](https://github.com/Ojeonghwan) |
+  |   Name(Git)   | [송다경](https://github.com/sa11k/) | [김민영](https://github.com/minyule) | [김찬일](https://github.com/chanilkim) | [이한기](https://github.com/hanenergy) | [강민성](https://github.com/pfcskms1997) | [오정환](https://github.com/Ojeonghwan) |
   | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
   | Position | :crown: / Frontend | Frontend | Frontend | Frontend | Backend | Backend |
 
