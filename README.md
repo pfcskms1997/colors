@@ -34,7 +34,6 @@
    ### Figma
    https://www.figma.com/file/0pfzHeX6s46qoyzQOuOdr2/%EA%B9%94%EB%A7%9E%EC%B6%A4?node-id=226%3A767
    ### ERD[(link)](README-asset/erd.png)
-   https://www.erdcloud.com/d/msoHPu97HhYepATqo
    ### 아키텍처
    ![architecture](README-asset/architecture.png)
    ### REST API[(link)](README-asset/rest-api-docs.pdf)
